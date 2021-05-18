@@ -1,1 +1,1 @@
-# delivery_mgt
+Master branch will have the details
