@@ -7,7 +7,7 @@ airplanes, and mail trucks. Each transport vehicle must have a load method that 
 <br/>
 
 ## Task
-1. Design the interfaces and classes above using inheritance, abstract classes, and classes with inheritance.
+1. Design the interfaces and classes above using inheritance, abstract classes.
 2. Create a main method in which you create one object for each vehicle type defined above.
 3. Call the load method on each.
 4. Add an item of a named subclass of Item to the object of the first vehicle type.
